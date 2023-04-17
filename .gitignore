@@ -1,0 +1,20 @@
+# Astro Output Directory
+__astro
+
+# Local development environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+node_modules/
+.pnpm/
+
+# Build artifacts
+public/build/
+public/bundle-*
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
